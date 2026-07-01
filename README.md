@@ -1,4 +1,4 @@
-# Desafio RPA Challenge OCR 🤖📄
+# Desafio RPA Challenge OCR
 
 Este projeto é uma automação desenvolvida em Python para resolver o desafio de OCR do RPA Challenge. O robô combina a automação web com a extração inteligente de dados de documentos digitalizados.
 
